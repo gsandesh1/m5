@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Course Registration Waiting List</string>
+    <string name="title">Course Waiting List</string>
+    <string name="by">Created by: Mani Sandesh Gandra</string>
+    <string name="no_students">No students</string>
+    <string name="new_student">New Student</string>
+    <string name="set_priority">Set Priority for student</string>
+    <string name="edit">Edit Student</string>
+    <string name="name">Enter student name</string>
+    <string name="priority">Enter Priority (Graduate/4th year/3rd year/2nd year/1st year)</string>
+</resources>
